@@ -1,0 +1,3 @@
+root@linuxTest:/tmp# cat mon_service.log 
+Hello World ! Il est maintenant 17:46:51 2024-11-12
+Hello World ! Il est maintenant 17:47:51 2024-11-12
